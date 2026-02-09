@@ -17,4 +17,5 @@ This is a VS Code ready project for the Smart Geo Campus system.
 
 ## Default Users
 - Student: `manas@email.com` / `password123`
-- Admin: `admin@email.com` / `admin123`
+- Admin: `admin@email.com` / `admin123` 
+- You can make your own login system in this project
