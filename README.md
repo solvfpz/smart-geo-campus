@@ -1,4 +1,4 @@
-# Smart Geo Campus - Attendance Tracking
+# Smart Geo Campus - Attendance Tracking (without database)
 
 This is a VS Code ready project for the Smart Geo Campus system.
 
